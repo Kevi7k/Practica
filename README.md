@@ -1,7 +1,3 @@
-# Practica
-2
-Bebesitaaaaaaaaa
-ssdfsefdfrgr
-dsfdsfd
-grgrgrh7
-thtrhtrhsdf
+Practica #2
+Planteamiento del problema
+
