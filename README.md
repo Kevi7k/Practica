@@ -96,6 +96,6 @@ BIBLIOGRAFÍA
 Emplear normas APA para el informe e IEEE para el artículo
 
 ANEXOS
-![alt text] (https://github.com/Kevi7k/Practica/blob/master/Img/Procedimiento%20circuito.jpg)
+![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Procedimiento%20circuito.jpg)
 
 15.2 HOJAS TÉCNICAS
