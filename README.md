@@ -93,10 +93,20 @@ En este punto se debe explicar cómo funcionan la implementación del programa, 
 CONCLUSIONES
 
 Los datos calculados que se obtuvo durante la practica simulada son similares a los obtenidos teoricamente.
+
+
 La malla con mayor intensidad de corriente es la que contiene el voltaje de 18v
+
+
 La malla con menor intensidad de corriente es la que contiene el voltaje de 5v
+
+
 Al final se pudo comprobar la ley de Kirchoff que nos dice que las corrientes que entran en un nodo son igual a las que salen.
+
+
 En todo este circuito se encontraron 5 corrientes. 
+
+
 RECOMENDACIONES
 
 Se recomienda utilizar de manera correcta cualquier simulador para obtener los resultados correctos
