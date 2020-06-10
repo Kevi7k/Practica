@@ -40,7 +40,7 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 PROCEDIMIENTO:
 
-[github](https://raw.githubusercontent.com/Kevi7k/Practica/master/assets/Circuito.png)
+Img/Circuito.png
 
 
 DIAGRAMAS Y TABLAS
