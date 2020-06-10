@@ -15,8 +15,9 @@ Su formulación debe responder a tres criterios básicos:
 
 Claridad. Cualquier persona que lea el problema debe entender a qué cuestiones se pretende responder con la investigación
 Concisión.
-Operatividad. El planteamiento operacional consiste en especificar no sólo el fenómeno, sino también en qué unidades va a ser medidos cada uno de estos efectos.
+
 OBJETIVO
+
 .Comprobar de manera simulada el análisis de mallas mediante la ley de Kirchoff
 MARCO TEÓRICO
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
