@@ -115,9 +115,7 @@ Se recomienda utilizar de manera correcta cualquier simulador para obtener los r
 
 ## *CRONOGRAMA*
 
-! [texto alternativo] ( https://github.com/Kevi7k/Practica/blob/master/Cronograma/Cronograma.jpeg)
-! [texto alternativo] ( https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png )
-
+![alt text](https://github.com/Kevi7k/Practica/blob/master/Cronograma/Cronograma.jpeg)
 
 ## *BIBLIOGRAFÍA*
 
