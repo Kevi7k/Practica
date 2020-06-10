@@ -1,8 +1,5 @@
 # *Práctica 2*
 
-Para la presentación de los trabajos se establecererá el día y la hora máxima de fecha de entrega, para el efecto se creará un foro en el cual los estudiantes participarán con un mensaje indicando sus nombres completos, el tipo de actividad, el tema y el link del repositorio.
-
-Para la calificación cada grupo debe generar una hoja de cálculo con las matrices de calificación y debe compartir el documento con doalulema@espe.edu.ec
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
@@ -58,9 +55,9 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1,
 
 | MALLA | Resultados análiticos |Resultados simulados |
 |----|--------|-------------|
-|    1 |   11,4mA    |       11,5mA |
-|   2  |   2,8mA   |   2,85mA |
-|   3   |   0,441mA    |     0,488mA |
+|    1 |   11,46mA | 11,5mA |
+|   2  |   2,85mA | 2,85mA |
+|   3   |   -0,490mA | -0,488mA |
 
 ## *DIAGRAMA*
 
