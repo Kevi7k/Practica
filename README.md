@@ -67,11 +67,11 @@ Armar el siguiente circuito
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1, simule en el software Multisim, Proteus, o cualquier otro simulador .El circuito de la figura 2.1, obteniendo los valores de las corrientes de malla en la tabla 2.1. Anote los resultados en la siguiente tabla.
 
-| MALLA | Resultados análiticos |Resultados Experimentales|Resultados simulados |
-|----|--------|------------|--------------|
-|    1 |   11,4mA    |   llenen     |  llenen   |
-|   2  |   2,8mA   |  llenen   |  llenen   |
-|   3   |   0,441mA    |   llenen    |  llenen   |
+| MALLA | Resultados análiticos |Resultados simulados |
+|----|--------|-------------|
+|    1 |   11,4mA    |     llenen   |
+|   2  |   2,8mA   |  llenen   |
+|   3   |   0,441mA    |   llenen   |
 
 ## *DIAGRAMA*
 
@@ -103,19 +103,19 @@ En este punto se debe explicar cómo funcionan la implementación del programa, 
 
 ## *CONCLUSIONES*
 
-### Los datos calculados que se obtuvo durante la practica simulada son similares a los obtenidos teoricamente.
+-Los datos calculados que se obtuvo durante la practica simulada son similares a los obtenidos teoricamente.
 
 
-### La malla con mayor intensidad de corriente es la que contiene el voltaje de 18v
+-La malla con mayor intensidad de corriente es la que contiene el voltaje de 18v
 
 
-### La malla con menor intensidad de corriente es la que contiene el voltaje de 5v
+-La malla con menor intensidad de corriente es la que contiene el voltaje de 5v
 
 
-### Al final se pudo comprobar la ley de Kirchoff que nos dice que las corrientes que entran en un nodo son igual a las que salen.
+-Al final se pudo comprobar la ley de Kirchoff que nos dice que las corrientes que entran en un nodo son igual a las que salen.
 
 
-### En todo este circuito se encontraron 5 corrientes. 
+-En todo este circuito se encontraron 5 corrientes. 
 
 
 ## *RECOMENDACIONES*
