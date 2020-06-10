@@ -40,7 +40,8 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 PROCEDIMIENTO:
 
-Img/Circuito.png
+
+![alt text](https://raw.githubusercontent.com/ChristianSosa/practica/branch/path/to/Circuito.png)
 
 
 DIAGRAMAS Y TABLAS
