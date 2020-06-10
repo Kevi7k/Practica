@@ -47,8 +47,7 @@ Un método para resolver problemas dentro de circuitos eléctricos es el anális
 
 Armar el siguiente circuito
 
-! [texto alternativo] ( https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png )
-
+![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png)
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1, simule en el software Multisim, Proteus, o cualquier otro simulador .El circuito de la figura 2.1, obteniendo los valores de las corrientes de malla en la tabla 2.1. Anote los resultados en la siguiente tabla.
 
