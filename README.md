@@ -122,7 +122,7 @@ El estudiante detalla cada una de las tareas y actividades que va a ejecutar dur
 Emplear normas APA para el informe e IEEE para el artículo
 
 ## *ANEXOS*
-![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Mallas.pdf)
+![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Mallas.jpg)
 
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Corrientes.png)
 
