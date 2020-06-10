@@ -77,7 +77,7 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1,
 
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Diagrama.png)
 
-![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Corrientes.png)
+![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/TinkerCad.png)
 
 ## *ECUACIONES*
 
