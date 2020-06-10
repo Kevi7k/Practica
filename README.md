@@ -87,7 +87,8 @@ V1+V2+V3+…+Vn=0
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
-En este punto se debe explicar cómo funcionan la implementación del programa, explicando los valores que requiere y los valores que devuelve.
+Como ya lo hemos detallado, implementaremos nuestro circuito para hacer nuestro cálculo de corrientes por mallas. Nuestro circuito constara de dos fuentes de voltaje, y cinco resistencias.
+Nuestro primer elemento será nuestra fuente de voltaje de 18V, el cual, estará conectado en serie con nuestra primera resistencia, que será de 820 ohmios. En dicha resistencia podremos calcular nuestra primera corriente ya que no existe otra corriente que actúe en ella. De dicha resistencia se dividen dos resistencias, es decir que existirá una división de corriente, en una resistencia de mil ohmios, que se conectara a los polos negativos de las fuentes de voltaje, y donde actuara nuestra corriente 1 y 2. Nuestra otra resistencia que salió de la resistencia de 820 ohmios, es nuestra resistencia de 1200 ohmios, donde podremos medir nuestra corriente 2, ya que es la única corriente que fluye por dicha resistencia. De esta resistencia tenemos nuevamente una división de corriente, teniendo resistencias de 2200 ohmios, y otra de 390 ohmios. De nuestra resistencia de 2200 ohmios vemos que actúan dos corrientes, que son las corrientes 3 y 4, y dicha resistencia está conectada en el otro extremo con nuestros polos negativos de las fuentes de voltaje. Y nuestra última resistencia de 390 ohmios, tiene un flujo de corriente de nuestra corriente 3, por lo cual podremos medir en dicha resistencia nuestro valor de corriente, dicha resistencia está unida en el otro extremo a nuestro polo positivo de nuestra fuente de voltaje de 5 volteos, y esta fuente conectando su polo negativo con el polo negativo de nuestra primera fuente, cerrando así nuestro circuito.
 
 
 ## *CONCLUSIONES*
@@ -119,12 +120,7 @@ El estudiante detalla cada una de las tareas y actividades que va a ejecutar dur
 
 ## *BIBLIOGRAFÍA*
 
-FISICALAB. (15 de 01 de 2020). Obtenido de https://www.fisicalab.com/apartado/resistencia-electrica-conductor
-Gómez, A. J. (s.f.). Prof. Recuperado el 10 de 06 de 20210, de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
-
-
-Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos. Tercera edición. México: McGrawHill, 2004.
-
+Emplear normas APA para el informe e IEEE para el artículo
 
 ## *ANEXOS*
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Mallas.jpeg)
