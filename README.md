@@ -1,10 +1,10 @@
-# Practica
+# *Práctica 2*
 
 Para la presentación de los trabajos se establecererá el día y la hora máxima de fecha de entrega, para el efecto se creará un foro en el cual los estudiantes participarán con un mensaje indicando sus nombres completos, el tipo de actividad, el tema y el link del repositorio.
 
 Para la calificación cada grupo debe generar una hoja de cálculo con las matrices de calificación y debe compartir el documento con doalulema@espe.edu.ec
 
-## *PLANTAMIENTO DEL PROBLEMA*
+## *PLANTEAMIENTO DEL PROBLEMA*
 
 
 Formular correctamente un problema consiste básicamente, en reducirlo a sus aspectos y relaciones esenciales. Debe ser formulado con precisión, en una o varias preguntas concretas donde se relacionen las variables implicadas, por ejemplo: ¿qué efecto?, ¿en qué condiciones...?, ¿cuál es la probabilidad de...?, ¿cómo se relaciona... con...?, etc. Algunas condiciones que debe cumplir son:
@@ -35,7 +35,7 @@ LISTA DE MATERIALES:
 | 1  | Resistor de 3,9k  |
 | 1  | Protoboard          |
 
-MARCO TEÓRICO
+## *MARCO TEÓRICO*
 
 
 Para resolver circuitos eléctricos mediante análisis de mallas debemos tener claros algunos conceptos fundamentales, entre ellos está la corriente, el voltaje y la resistencia. Además, también debemos tener con conocimiento previo de las leyes que describen comportamientos de estos fenómenos en cada elemento del circuito como es la Ley de Ohm y las Leyes de voltaje de Kirchhoff. 
@@ -57,7 +57,7 @@ Un método para resolver problemas dentro de circuitos eléctricos es el anális
 
 
 
-PROCEDIMIENTO:
+##*PROCEDIMIENTO:*
 
 Armar el siguiente circuito
 
@@ -73,56 +73,66 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1,
 |   2  |   2,8mA   |  llenen   |  llenen   |
 |   3   |   0,441mA    |   llenen    |  llenen   |
 
-DIAGRAMA
+##*DIAGRAMA*
 
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Diagrama.png)
 
 
-ECUACIONES
-ECUACIONES
+##*ECUACIONES*
+
+
 V = I * R 
+
+
 Donde: V es el voltaje
+
+
 	R es la resistencia
+	
+	
 	I es la corriente
+	
+	
 V1+V2+V3+…+Vn=0
 
 
-EXPLICACIÓN DEL CIRCUITO
+##*EXPLICACIÓN DEL CIRCUITO*
 
 En este punto se debe explicar cómo funcionan la implementación del programa, explicando los valores que requiere y los valores que devuelve.
 
-CONCLUSIONES
 
-Los datos calculados que se obtuvo durante la practica simulada son similares a los obtenidos teoricamente.
+##*CONCLUSIONES*
 
-
-La malla con mayor intensidad de corriente es la que contiene el voltaje de 18v
+### Los datos calculados que se obtuvo durante la practica simulada son similares a los obtenidos teoricamente.
 
 
-La malla con menor intensidad de corriente es la que contiene el voltaje de 5v
+### La malla con mayor intensidad de corriente es la que contiene el voltaje de 18v
 
 
-Al final se pudo comprobar la ley de Kirchoff que nos dice que las corrientes que entran en un nodo son igual a las que salen.
+### La malla con menor intensidad de corriente es la que contiene el voltaje de 5v
 
 
-En todo este circuito se encontraron 5 corrientes. 
+### Al final se pudo comprobar la ley de Kirchoff que nos dice que las corrientes que entran en un nodo son igual a las que salen.
 
 
-RECOMENDACIONES
+### En todo este circuito se encontraron 5 corrientes. 
+
+
+## *RECOMENDACIONES*
 
 Se recomienda utilizar de manera correcta cualquier simulador para obtener los resultados correctos
 
 
-CRONOGRAMA
+## *CRONOGRAMA*
 
 El estudiante detalla cada una de las tareas y actividades que va a ejecutar durante el desarrollo de su trabajo. Este cronograma debe representarse gráficamente mediante un “DIAGRAMA DE GANTT”, el cual de ser desarrollado con MICROSOFT PROJECT.
 
 
-BIBLIOGRAFÍA
+## *BIBLIOGRAFÍA*
 
 Emplear normas APA para el informe e IEEE para el artículo
 
-ANEXOS
+## *ANEXOS*
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Procedimiento%20circuito.jpg)
 
 15.2 HOJAS TÉCNICAS
