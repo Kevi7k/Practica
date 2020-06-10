@@ -47,7 +47,7 @@ Un método para resolver problemas dentro de circuitos eléctricos es el anális
 
 Armar el siguiente circuito
 
-
+! [texto alternativo]_( https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png )
 ! [texto alternativo] ( https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png )
 
 
