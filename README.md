@@ -49,7 +49,17 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 PROCEDIMIENTO:
 Armar el siguiente circuito
 
+
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png)
+
+
+Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1, simule en el software Multisim, Proteus, o cualquier otro simulador .El circuito de la figura 2.1, obteniendo los valores de las corrientes de malla en la tabla 2.1. Anote los resultados en la siguiente tabla.
+
+| MALLA | Resultados análitos |Resultados Experimentales|Resultados simulados |
+|----|--------|------------|--------------|
+|    1  |   1     |   1     |  1   |
+|   2   |   1     |   1     |  1   |
+|   3   |   1     |   1     |  1   |
 
 DIAGRAMAS Y TABLAS
 
@@ -70,11 +80,16 @@ En este punto se debe explicar cómo funcionan la implementación del programa, 
 
 CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+Los datos calculados que se obtuvo durante la practica simulada son iguales a los obtenidos teoricamente.
+La malla con mayor intensidad de corriente es
+La malla con menor intensidad de corriente es
+Al final se pudo comprobar la ley de Kirchoff que nos dice que la sumatoria de voltajes en una malla es igual a cero.
+
 
 RECOMENDACIONES
 
-Se establecen en función del proyecto y constituyen la base para un funcionamiento adecuado.
+Se recomienda utilizar de manera correcta cualquier simulador para obtener los resultados correctos
+
 
 CRONOGRAMA
 
