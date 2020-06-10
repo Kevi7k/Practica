@@ -57,7 +57,7 @@ Un método para resolver problemas dentro de circuitos eléctricos es el anális
 
 
 
-##*PROCEDIMIENTO:*
+## *PROCEDIMIENTO:*
 
 Armar el siguiente circuito
 
@@ -73,12 +73,12 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1,
 |   2  |   2,8mA   |  llenen   |  llenen   |
 |   3   |   0,441mA    |   llenen    |  llenen   |
 
-##*DIAGRAMA*
+## *DIAGRAMA*
 
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Diagrama.png)
 
 
-##*ECUACIONES*
+## *ECUACIONES*
 
 
 V = I * R 
@@ -96,12 +96,12 @@ Donde: V es el voltaje
 V1+V2+V3+…+Vn=0
 
 
-##*EXPLICACIÓN DEL CIRCUITO*
+## *EXPLICACIÓN DEL CIRCUITO*
 
 En este punto se debe explicar cómo funcionan la implementación del programa, explicando los valores que requiere y los valores que devuelve.
 
 
-##*CONCLUSIONES*
+## *CONCLUSIONES*
 
 ### Los datos calculados que se obtuvo durante la practica simulada son similares a los obtenidos teoricamente.
 
