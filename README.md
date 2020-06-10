@@ -126,5 +126,3 @@ Emplear normas APA para el informe e IEEE para el artículo
 
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Corrientes.png)
 
-
-15.2 HOJAS TÉCNICAS
