@@ -128,3 +128,5 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Corrientes.png)
 
+![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Procedimiento%20circuito.jpg)
+
