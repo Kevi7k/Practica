@@ -56,11 +56,11 @@ Armar el siguiente circuito
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1, simule en el software Multisim, Proteus, o cualquier otro simulador .El circuito de la figura 2.1, obteniendo los valores de las corrientes de malla en la tabla 2.1. Anote los resultados en la siguiente tabla.
 
-| MALLA | Resultados análitos |Resultados Experimentales|Resultados simulados |
+| MALLA | Resultados análiticos |Resultados Experimentales|Resultados simulados |
 |----|--------|------------|--------------|
-|    1  |   1     |   1     |  1   |
-|   2   |   1     |   1     |  1   |
-|   3   |   1     |   1     |  1   |
+|    1 |   11,4mA    |   1     |  1   |
+|   2  |   2,8mA   |   1     |  1   |
+|   3   |   0,441mA    |   1     |  1   |
 
 DIAGRAMA
 
