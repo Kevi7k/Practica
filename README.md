@@ -48,7 +48,7 @@ Un método para resolver problemas dentro de circuitos eléctricos es el anális
 Armar el siguiente circuito
 
 
-![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png)
+! [texto alternativo] ( https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png )
 
 
 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1, simule en el software Multisim, Proteus, o cualquier otro simulador .El circuito de la figura 2.1, obteniendo los valores de las corrientes de malla en la tabla 2.1. Anote los resultados en la siguiente tabla.
@@ -115,7 +115,8 @@ Se recomienda utilizar de manera correcta cualquier simulador para obtener los r
 
 ## *CRONOGRAMA*
 
-El estudiante detalla cada una de las tareas y actividades que va a ejecutar durante el desarrollo de su trabajo. Este cronograma debe representarse gráficamente mediante un “DIAGRAMA DE GANTT”, el cual de ser desarrollado con MICROSOFT PROJECT.
+! [texto alternativo] ( https://github.com/Kevi7k/Practica/blob/master/Cronograma/Cronograma.jpeg)
+
 
 
 ## *BIBLIOGRAFÍA*
