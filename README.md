@@ -6,18 +6,7 @@ Para la calificación cada grupo debe generar una hoja de cálculo con las matri
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
-
-Formular correctamente un problema consiste básicamente, en reducirlo a sus aspectos y relaciones esenciales. Debe ser formulado con precisión, en una o varias preguntas concretas donde se relacionen las variables implicadas, por ejemplo: ¿qué efecto?, ¿en qué condiciones...?, ¿cuál es la probabilidad de...?, ¿cómo se relaciona... con...?, etc. Algunas condiciones que debe cumplir son:
-
-Especificar lo que ha de determinarse o resolverse
-Restringir el campo de estudio en un interrogante concreto
-Enunciarse de una forma clara y unívoca, de modo que la respuesta sólo admita respuestas precisas
-Susceptible de verificación empírica. No debe plantear juicios de valor sobre lo que es mejor o peor, sobre cómo debería ser idealmente la realidad, sino sobre cómo es realmente.
-Su formulación debe responder a tres criterios básicos:
-
-Claridad. Cualquier persona que lea el problema debe entender a qué cuestiones se pretende responder con la investigación
-Concisión.
-Operatividad. El planteamiento operacional consiste en especificar no sólo el fenómeno, sino también en qué unidades va a ser medidos cada uno de estos efectos.
+Enunciarse de una forma clara y unívoca, de modo que la respuesta sólo admita respuestas precisas¿El método de cálculo de corriente en mallas, es un método efectivo que nos dé garantías al momento de realizar nuestros cálculos, el cual se cumple en todos los casos sin excepción, y es conveniente realizarlo para obtener un proceso menos laborioso con respecto a otros estudiados en la materia?
 
 ## *OBJETIVO:*
 
