@@ -48,6 +48,9 @@ La ley de ohm es usada para determinar la relación entre tensión, corriente y 
 
 
 Un método para resolver problemas dentro de circuitos eléctricos es el análisis de mallas mediante la Ley de Tensión de Kirchhoff, tal como menciona Antonio J. Salazar: “En el análisis de mallas se parte de la aplicación de LTK a un conjunto mínimo de lazos para encontrar al final todas las corrientes de lazo. A partir de las corrientes de lazo es posible encontrar todas las corrientes de rama. El número de lazos que se pueden plantear en un circuito puede ser muy grande, pero lo importante es que el sistema de ecuaciones represente un conjunto mínimo de lazos independientes. Este conjunto mínimo es cualquiera en el cual todos los elementos (ramas) hayan sido tenidos en cuenta en al menos una malla. Las otras posibles mallas serán entonces redundantes Aquí también el número de incógnitas (corrientes de lazo) debe ser igual al número de ecuaciones, una por malla del conjunto mínimo.”(Análisis por nodos y mallas, pp 36-37)
+
+
+
 ![Analisis,Mallas]( https://github.com/Kevi7k/Practica/blob/master/Img/Ley-Voltaje-Kirchoff.png)
 
 
