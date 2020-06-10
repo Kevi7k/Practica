@@ -6,7 +6,7 @@ Para la calificación cada grupo debe generar una hoja de cálculo con las matri
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
 
-Enunciarse de una forma clara y unívoca, de modo que la respuesta sólo admita respuestas precisas¿El método de cálculo de corriente en mallas, es un método efectivo que nos dé garantías al momento de realizar nuestros cálculos, el cual se cumple en todos los casos sin excepción, y es conveniente realizarlo para obtener un proceso menos laborioso con respecto a otros estudiados en la materia?
+¿El método de cálculo de corriente en mallas, es un método efectivo que nos dé garantías al momento de realizar nuestros cálculos, el cual se cumple en todos los casos sin excepción, y es conveniente realizarlo para obtener un proceso menos laborioso con respecto a otros estudiados en la materia?
 
 ## *OBJETIVO:*
 
