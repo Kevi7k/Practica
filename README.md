@@ -119,7 +119,12 @@ El estudiante detalla cada una de las tareas y actividades que va a ejecutar dur
 
 ## *BIBLIOGRAFÍA*
 
-Emplear normas APA para el informe e IEEE para el artículo
+FISICALAB. (15 de 01 de 2020). Obtenido de https://www.fisicalab.com/apartado/resistencia-electrica-conductor
+Gómez, A. J. (s.f.). Prof. Recuperado el 10 de 06 de 20210, de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
+
+
+Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos. Tercera edición. México: McGrawHill, 2004.
+
 
 ## *ANEXOS*
 ![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Mallas.jpeg)
