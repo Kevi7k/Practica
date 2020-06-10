@@ -35,6 +35,8 @@ LISTA DE MATERIALES:
 | 1  | Protoboard          |
 
 MARCO TEÓRICO
+
+
 Para resolver circuitos eléctricos mediante análisis de mallas debemos tener claros algunos conceptos fundamentales, entre ellos está la corriente, el voltaje y la resistencia. Además, también debemos tener con conocimiento previo de las leyes que describen comportamientos de estos fenómenos en cada elemento del circuito como es la Ley de Ohm y las Leyes de voltaje de Kirchhoff. 
 
 
