@@ -62,15 +62,10 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1,
 |   2   |   1     |   1     |  1   |
 |   3   |   1     |   1     |  1   |
 
-DIAGRAMAS Y TABLAS
+DIAGRAMA
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
+![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Diagrama.png)
 
-Diagramas de bloques.
-Diagramas UML. (casos de uso-clase)
-Diagramas eléctricos.
-Diagramas esquemáticos.
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
 
 ECUACIONES
 
@@ -81,12 +76,11 @@ En este punto se debe explicar cómo funcionan la implementación del programa, 
 
 CONCLUSIONES
 
-Los datos calculados que se obtuvo durante la practica simulada son iguales a los obtenidos teoricamente.
-La malla con mayor intensidad de corriente es
-La malla con menor intensidad de corriente es
-Al final se pudo comprobar la ley de Kirchoff que nos dice que la sumatoria de voltajes en una malla es igual a cero.
-
-
+Los datos calculados que se obtuvo durante la practica simulada son similares a los obtenidos teoricamente.
+La malla con mayor intensidad de corriente es la que contiene el voltaje de 18v
+La malla con menor intensidad de corriente es la que contiene el voltaje de 5v
+Al final se pudo comprobar la ley de Kirchoff que nos dice que las corrientes que entran en un nodo son igual a las que salen.
+En todo este circuito se encontraron 5 corrientes. 
 RECOMENDACIONES
 
 Se recomienda utilizar de manera correcta cualquier simulador para obtener los resultados correctos
@@ -102,6 +96,6 @@ BIBLIOGRAFÍA
 Emplear normas APA para el informe e IEEE para el artículo
 
 ANEXOS
-
+![alt text] (https://github.com/Kevi7k/Practica/blob/master/Img/Procedimiento%20circuito.jpg)
 
 15.2 HOJAS TÉCNICAS
