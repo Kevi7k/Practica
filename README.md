@@ -85,7 +85,9 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1,
 V = I * R 
 
 
-Donde: V es el voltaje
+Donde: 
+
+	 V es el voltaje
 
 
 	R es la resistencia
