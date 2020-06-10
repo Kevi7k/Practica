@@ -18,13 +18,21 @@ Claridad. Cualquier persona que lea el problema debe entender a qué cuestiones 
 Concisión.
 Operatividad. El planteamiento operacional consiste en especificar no sólo el fenómeno, sino también en qué unidades va a ser medidos cada uno de estos efectos.
 
-OBJETIVO
+OBJETIVO:
 
 Comprobar de manera simulada el análisis de mallas mediante la ley de Kirchoff
 
-LISTA DE MATERIALES
+LISTA DE MATERIALES:
 
-En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo y todos los componentes electrónicos si fuera el caso.
+| Cantidad | Material de Equipo |
+| ------------- | ------------- |
+| 1  | Fuente de voltaje de C.D |
+| 2  | Multímetro digital  |
+|  1 | Resistor de 1k  |
+|  2 | Resistores de 2,2K  |
+| 1 | Resistor de 1,8k  |
+| 1  | Resistor de 3,9k  |
+| 1  | Protoboard          |
 
 MARCO TEÓRICO
 
@@ -39,10 +47,9 @@ Señalar la forma en que la investigación actual enriquece, amplía y profundiz
 Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
 PROCEDIMIENTO:
+Armar el siguiente circuito
 
-
-![alt text](https://raw.githubusercontent.com/ChristianSosa/practica/branch/path/to/Circuito.png)
-
+![alt text](https://github.com/Kevi7k/Practica/blob/master/Img/Circuito.png)
 
 DIAGRAMAS Y TABLAS
 
