@@ -4,7 +4,8 @@ Para la presentación de los trabajos se establecererá el día y la hora máxim
 
 Para la calificación cada grupo debe generar una hoja de cálculo con las matrices de calificación y debe compartir el documento con doalulema@espe.edu.ec
 
-PLANTEAMIENTO DEL PROBLEMA
+## *PLANTAMIENTO DEL PROBLEMA*
+
 
 Formular correctamente un problema consiste básicamente, en reducirlo a sus aspectos y relaciones esenciales. Debe ser formulado con precisión, en una o varias preguntas concretas donde se relacionen las variables implicadas, por ejemplo: ¿qué efecto?, ¿en qué condiciones...?, ¿cuál es la probabilidad de...?, ¿cómo se relaciona... con...?, etc. Algunas condiciones que debe cumplir son:
 
@@ -18,7 +19,7 @@ Claridad. Cualquier persona que lea el problema debe entender a qué cuestiones 
 Concisión.
 Operatividad. El planteamiento operacional consiste en especificar no sólo el fenómeno, sino también en qué unidades va a ser medidos cada uno de estos efectos.
 
-OBJETIVO:
+## *OBJETIVO:*
 
 Comprobar de manera simulada el análisis de mallas mediante la ley de KirchoffVerificar el método de análisis de un circuito por mallas mediante la simulación del mismo y la aplicación de las Leyes de Kirchhoff.
 
