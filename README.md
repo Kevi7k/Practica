@@ -21,7 +21,7 @@ Operatividad. El planteamiento operacional consiste en especificar no sólo el f
 
 ## *OBJETIVO:*
 
-Comprobar de manera simulada el análisis de mallas mediante la ley de KirchoffVerificar el método de análisis de un circuito por mallas mediante la simulación del mismo y la aplicación de las Leyes de Kirchhoff.
+Verificar el método de análisis de un circuito por mallas mediante la simulación del mismo y la aplicación de las Leyes de Kirchhoff.
 
 LISTA DE MATERIALES:
 
