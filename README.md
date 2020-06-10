@@ -69,9 +69,9 @@ Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1,
 
 | MALLA | Resultados análiticos |Resultados simulados |
 |----|--------|-------------|
-|    1 |   11,4mA    |     llenen   |
-|   2  |   2,8mA   |  llenen   |
-|   3   |   0,441mA    |   llenen   |
+|    1 |   11,4mA    |        |
+|   2  |   2,8mA   |    |
+|   3   |   0,441mA    |      |
 
 ## *DIAGRAMA*
 
