@@ -40,13 +40,13 @@ Para resolver circuitos eléctricos mediante análisis de mallas debemos tener c
 Para comenzar tenemos a la corriente que es el flujo de carga eléctrica que atraviesa un material conductor durante un periodo de tiempo determinado. Se expresa en C/s, culombios por segundo en el Sistema Internacional de Unidades, y la unidad se conoce como Amperio. Luego tenemos al voltaje que corresponde a la diferencia de potencia o tensión eléctrica entre 2 puntos, también se le conoce como la cantidad de voltios que se usan en un sistema eléctrico. Por último, tenemos a la resistencia que se define como una magnitud, que mide la dificultad con la que un conductor conduce la corriente, o bien a un elemento de un circuito (una pieza física que forma parte del mismo), este valor depende del material por el que se compone, la temperatura, su longitud y su sección.
 La ley de ohm es usada para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico, esta ley es fundamental dentro de nuestro estudio. Se representa mejor de la siguiente manera:
 
-!. [LeydeOhm]_( https://github.com/Kevi7k/Practica/blob/master/Img/ley-de-ohm.png)
+![LeydeOhm]( https://github.com/Kevi7k/Practica/blob/master/Img/ley-de-ohm.png)
 
 Un método para resolver problemas dentro de circuitos eléctricos es el análisis de mallas mediante la Ley de Tensión de Kirchhoff, tal como menciona Antonio J. Salazar: “En el análisis de mallas se parte de la aplicación de LTK a un conjunto mínimo de lazos para encontrar al final todas las corrientes de lazo. A partir de las corrientes de lazo es posible encontrar todas las corrientes de rama. El número de lazos que se pueden plantear en un circuito puede ser muy grande, pero lo importante es que el sistema de ecuaciones represente un conjunto mínimo de lazos independientes. Este conjunto mínimo es cualquiera en el cual todos los elementos (ramas) hayan sido tenidos en cuenta en al menos una malla. Las otras posibles mallas serán entonces redundantes Aquí también el número de incógnitas (corrientes de lazo) debe ser igual al número de ecuaciones, una por malla del conjunto mínimo.”(Análisis por nodos y mallas, pp 36-37
 
 una por malla del conjunto mínimo.”(Análisis por nodos y mallas, pp 36-37)
 
-!. [Analisis,Mallas]_( https://github.com/Kevi7k/Practica/blob/master/Img/Ley-Voltaje-Kirchoff.png)
+![Analisis,Mallas]( https://github.com/Kevi7k/Practica/blob/master/Img/Ley-Voltaje-Kirchoff.png)
 
 
 PROCEDIMIENTO:
